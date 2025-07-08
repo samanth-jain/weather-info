@@ -1,4 +1,5 @@
-# Weather API Assignment
+# Backend Assignment - Weather Info for Pincode
+
 
 A Spring Boot REST API to fetch and cache weather information for a given Indian pincode and date, using OpenWeatherMap APIs and PostgreSQL.
 
